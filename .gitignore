@@ -1,0 +1,14 @@
+# Qt
+*.user
+*.pro.user
+build/
+
+# STM32
+Debug/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Genel
+*.log
